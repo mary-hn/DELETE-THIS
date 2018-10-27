@@ -1,0 +1,6 @@
+[25-Mar-2018 03:21:26 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home6/ehaitior/public_html/wp-content/themes/genesis/header.php on line 19
+[25-Mar-2018 20:57:13 America/Denver] PHP Fatal error:  Call to undefined function genesis() in /home6/ehaitior/public_html/wp-content/themes/genesis/index.php on line 15
+[28-Mar-2018 19:50:50 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home6/ehaitior/public_html/wp-content/themes/genesis/header.php on line 19
+[28-Mar-2018 19:50:51 America/Denver] PHP Fatal error:  Call to undefined function do_action() in /home6/ehaitior/public_html/wp-content/themes/genesis/header.php on line 19
+[09-Apr-2018 02:58:01 America/Denver] PHP Fatal error:  Call to undefined function remove_action() in /home6/ehaitior/public_html/wp-content/themes/genesis/404.php on line 15
+[09-Apr-2018 02:58:01 America/Denver] PHP Fatal error:  Call to undefined function remove_action() in /home6/ehaitior/public_html/wp-content/themes/genesis/404.php on line 15
